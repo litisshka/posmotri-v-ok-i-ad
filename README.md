@@ -1,1 +1,1 @@
-https://github.com/solsider/posmotri_v_okno
+https://github.com/litisshka/posmotri-v-ok-i-ad
